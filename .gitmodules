@@ -1,3 +1,6 @@
 [submodule "Kafka-Cluster-n-Docker"]
 	path = Kafka-Cluster-n-Docker
 	url = https://github.com/fajarafriad1/Kafka-Cluster-in-Docker.git
+[submodule "Kafka-Cluster-in-Docker"]
+	path = Kafka-Cluster-in-Docker
+	url = https://github.com/fajarafriad1/Kafka-Cluster-in-Docker.git
