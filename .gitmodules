@@ -2,3 +2,6 @@
 [submodule "Kafka-Cluster-in-Docker"]
 	path = Kafka-Cluster-in-Docker
 	url = https://github.com/fajarafriad1/Kafka-Cluster-in-Docker.git
+[submodule "Spark-Cluster-in-Docker"]
+	path = Spark-Cluster-in-Docker
+	url = git@github.com:fajarafriad1/Spark-Cluster-in-Docker.git
