@@ -8,3 +8,6 @@
 [submodule "postgres-cdc-clickhouse-docker"]
 	path = postgres-cdc-clickhouse-docker
 	url = https://github.com/fajarafriad1/postgres-cdc-clickhouse-docker.git
+[submodule "drc-data-replication"]
+	path = drc-data-replication
+	url = git@github.com:fajarafriad1/drc-data-replication-pipeline-using-spark-and-airflow.git
